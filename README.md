@@ -1,6 +1,6 @@
-## HW07-Tanvi Mittal
+## HW09-Tanvi Mittal
 
-This repository is my submission for hw07 for STAT547M.
+This repository is my submission for hw09 for STAT547M.
 
 In this repo, I build upon existing pipeline provided as a starting point. The original version for this assignment can be found [here](https://github.com/STAT545-UBC/make-activity)
 
