@@ -20,14 +20,14 @@ vowel.png: vowels.tsv
 	Rscript -e 'library(ggplot2); qplot(vowel_length, Freq, data=read.delim("$<")); ggsave("$@")'
 	rm Rplots.pdf
 
-vowels.tsv: vowels.R words.txt
+vowels.tsv: vowels.r words.txt
 	Rscript $<
 
 consonants.png: consonants.tsv
 	Rscript -e 'library(ggplot2); qplot(consonants_length, Freq, data=read.delim("$<")); ggsave("$@")'
 	rm Rplots.pdf
 
-consonants.tsv: consonants.R words.txt
+consonants.tsv: consonants.r words.txt
 	Rscript $<
 
 # words.txt:
