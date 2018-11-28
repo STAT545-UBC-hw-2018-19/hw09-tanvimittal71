@@ -13,6 +13,6 @@ I have added below mentioned files:
 * [consonants.r](https://github.com/STAT545-UBC-students/hw09-tanvimittal71/blob/master/consonants.r): It outputs *[consonants.tsv](https://github.com/STAT545-UBC-students/hw09-tanvimittal71/blob/master/consonants.tsv)* which gives frequency of length of words starting with a consonant
 * [consonants.png](https://github.com/STAT545-UBC-students/hw09-tanvimittal71/blob/master/consonants.png): plots *consonants.tsv* 
 
-Using all the files mentioned above I have updated [report.rmd](https://github.com/STAT545-UBC-students/hw09-tanvimittal71/blob/master/report.rmd) to provide the analysis including the plots and data obtained from the newly added files. **[HTML](https://github.com/STAT545-UBC-students/hw09-tanvimittal71/blob/master/report.html)** and **[Md](https://github.com/STAT545-UBC-students/hw09-tanvimittal71/blob/master/report.md)** files for this report are here.
+Using all the files mentioned above, I have updated [report.rmd](https://github.com/STAT545-UBC-students/hw09-tanvimittal71/blob/master/report.rmd) to provide the analysis including the plots and data obtained from the newly added files. **[HTML](https://github.com/STAT545-UBC-students/hw09-tanvimittal71/blob/master/report.html)** and **[Md](https://github.com/STAT545-UBC-students/hw09-tanvimittal71/blob/master/report.md)** files for this report also included.
 
 Also, **[Makefile](https://github.com/STAT545-UBC-students/hw09-tanvimittal71/blob/master/Makefile)** has been updated with dependencies and output.
